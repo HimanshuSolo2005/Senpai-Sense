@@ -3,7 +3,7 @@
 ## Tech Stack
 - uv for environment
 - langchain
-- ollama's nomic-embed-text for embeddings
-- ollams's llama 3 for llm
+- nomic-embed-text for embeddings
+- groks's llama3-8b-8192 for a llm
 - chroma for vector store
 - pypdf for accessing pdf from my local directory to my python environment.
